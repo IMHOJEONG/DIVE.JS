@@ -1,4 +1,18 @@
-### JAVASCRIPT 시대에 살고 있다 
+<p align="center">
+   <img src="./assets/logo_image.webp"/>
+</p>
+<p>
+    DIVE.JS is to study Javascript deeply. 
+</p>
 
-- 꾸준히 끊임없이 공부하자!
+## Index 
+
+- [FE](./FE)
+
+- [BE](./BE)
+
+- [JavaScript](./Javascript)
+
+
+
 
