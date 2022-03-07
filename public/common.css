@@ -1,0 +1,7 @@
+@font-face {
+    font-family: Fredoka;
+    src: local("FredokaOne-Regular"),
+    url('../src/common/fonts/FredokaOne-Regular.woff'),
+    url('../src/common/fonts/FredokaOne-Regular.ttf'),
+    url('https://fonts.google.com/share?selection.family=Fredoka%20One')
+}   
